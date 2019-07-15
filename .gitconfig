@@ -1,0 +1,15 @@
+[alias]
+   co = "checkout"
+   cob = "checkout -b"
+   br = "branch"
+
+   st = "status"
+   aa = "add -A"
+   cm = "commit -m"
+
+   re = "remote"
+
+   unstage = "reset --soft HEAD^"
+[user]
+	email = jamesjiang@gatech.edu
+	name = James Jiang
