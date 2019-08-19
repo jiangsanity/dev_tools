@@ -4,6 +4,8 @@ alias vi='vim'
 alias modal='vi ~/.bash_aliases'
 alias modpro='vi ~/.bash_profile'
 
+alias od='cd OneDrive\ -\ Georgia\ Institute\ of\ Technology/'
+
 alias hist='history'
 
 alias ll='ls -a -l'
@@ -18,9 +20,10 @@ alias jfxc='javac --module-path $PATH_TO_FX --add-modules=javafx.controls,javafx
 alias jfx='java --module-path $PATH_TO_FX --add-modules=javafx.controls,javafx.fxml'
 
 alias dt='cd ~/Desktop'
+alias docs='cd ~/Documents'
 alias db='cd ~/DropBox'
 alias dl='cd ~/Downloads'
-alias work='cd ~/work'
+alias work='cd ~/OneDrive\ -\ Georgia\ Institute\ of\ Technology/work'
 alias tools='cd ~/tools'
 
 alias bb='cd ..'
