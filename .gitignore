@@ -6,3 +6,5 @@
 !.bashrc
 !.bash_aliases
 !.vimrc
+!brew_cask_packages.txt
+!brew_packages.txt

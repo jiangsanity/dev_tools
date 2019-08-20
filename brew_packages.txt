@@ -1,0 +1,1 @@
+asciidoctor docker gdbm gettext git icu4c libyaml lolcat lua node openssl pcre2 perl python readline ruby sqlite tree vim xz z
