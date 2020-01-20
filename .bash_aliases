@@ -4,7 +4,7 @@ alias vi='vim'
 alias modal='vi ~/.bash_aliases'
 alias modpro='vi ~/.bash_profile'
 
-alias od='cd OneDrive\ -\ Georgia\ Institute\ of\ Technology/'
+alias od='cd ~/oneDrive'
 
 alias hist='history'
 
@@ -23,7 +23,7 @@ alias dt='cd ~/Desktop'
 alias docs='cd ~/Documents'
 alias db='cd ~/DropBox'
 alias dl='cd ~/Downloads'
-alias work='cd ~/OneDrive\ -\ Georgia\ Institute\ of\ Technology/work'
+alias work='cd ~/oneDrive/work'
 alias tools='cd ~/tools'
 
 alias bb='cd ..'
@@ -49,3 +49,11 @@ alias prox='cofproxy dev'
 alias proxo='cofproxy off'
 
 alias histrep='history | grep'
+
+alias db='cd ~/oneDrive/work/cs4400'
+alias algo='cd ~/oneDrive/work/cs3510'
+alias sec='cd ~/oneDrive/work/cs4235'
+alias jd='cd ~/oneDrive/work/juniorDesign'
+alias combo='cd ~/oneDrive/work/math3012'
+
+alias pg='cd ~/oneDrive/work/playground'
