@@ -1,1 +1,6 @@
-adoptopenjdk atom docker sublime-text visual-studio-code
+adoptopenjdk8
+atom
+docker
+java
+sublime-text
+visual-studio-code
