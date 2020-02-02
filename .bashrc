@@ -7,11 +7,14 @@ source ~/.bash_aliases
 
 chrome() { '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' "$@"; }
 
+alias jdoc='java -jar ~/Downloads/checkstyle-8.28.jar '
 flapp() { export FLASK_APP="$1"; }
 flapprun() {
     export FLASK_APP="$1"
     flask run
 }
+
+alias 
 
 # tabtab source for serverless package
 # uninstall by removing these lines or running `tabtab uninstall serverless`

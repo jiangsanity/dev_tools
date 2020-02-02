@@ -50,10 +50,11 @@ alias proxo='cofproxy off'
 
 alias histrep='history | grep'
 
-alias db='cd ~/oneDrive/work/cs4400'
 alias algo='cd ~/oneDrive/work/cs3510'
 alias sec='cd ~/oneDrive/work/cs4235'
 alias jd='cd ~/oneDrive/work/juniorDesign'
 alias combo='cd ~/oneDrive/work/math3012'
+
+alias ta='cd ~/oneDrive/work/ta'
 
 alias pg='cd ~/oneDrive/work/playground'
