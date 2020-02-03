@@ -1,4 +1,5 @@
 adoptopenjdk8
+anaconda
 atom
 docker
 java
