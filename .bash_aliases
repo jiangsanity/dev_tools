@@ -57,3 +57,5 @@ alias combo='cd ~/oneDrive/work/math3012'
 alias ta='cd ~/oneDrive/work/ta'
 
 alias pg='cd ~/oneDrive/work/playground'
+
+alias gc='source activate gameai'
