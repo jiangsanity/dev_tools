@@ -36,7 +36,7 @@ alias java8='/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/bi
 alias javac8='/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/bin/javac'
 
 alias py='python'
-alias python='/usr/local/bin/python3'
+alias python='/usr/bin/python3'
 
 alias sublime='open -a Sublime\ Text'
 alias atom='open -a Atom'
@@ -49,7 +49,6 @@ alias prox='cofproxy dev'
 alias proxo='cofproxy off'
 
 alias histrep='history | grep'
-
 alias algo='cd ~/oneDrive/work/cs3510'
 alias sec='cd ~/oneDrive/work/cs4235'
 alias jd='cd ~/oneDrive/work/juniorDesign'
