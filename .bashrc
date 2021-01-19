@@ -15,7 +15,11 @@ flapprun() {
     flask run
 }
 
-alias 
+export ANDROID_HOME=$HOME/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/tools/bin
+export PATH=$PATH:$ANDROID_HOME/platform-tools
 
 # tabtab source for serverless package
 # uninstall by removing these lines or running `tabtab uninstall serverless`

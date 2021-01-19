@@ -24,6 +24,7 @@ alias docs='cd ~/Documents'
 alias db='cd ~/DropBox'
 alias dl='cd ~/Downloads'
 alias work='cd ~/oneDrive/work'
+alias workl='cd ~/work-local'
 alias tools='cd ~/tools'
 
 alias bb='cd ..'
@@ -59,3 +60,4 @@ alias ta='cd ~/oneDrive/work/ta'
 alias pg='cd ~/oneDrive/work/playground'
 
 alias gc='source activate gameai'
+alias j8='export JAVA_HOME=`/usr/libexec/java_home -v 1.8`'

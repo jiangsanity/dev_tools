@@ -15,3 +15,4 @@ if command -v brew >/dev/null 2>&1; then
 fi
 
 source ~/.bashrc
+export PATH=/usr/local/texlive/2019/bin/x86_64-darwin:"${PATH}"
